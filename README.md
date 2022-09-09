@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @bassem267
-- 👀 I’m interested in Software Development 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Software Engineering 
+- 🌱 I’m currently learning Back-end web development
+- 💞️ I’m looking to collaborate on Web development Projects
